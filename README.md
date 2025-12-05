@@ -37,3 +37,4 @@ npm run dev
 Dashboard en: [http://localhost:5173](http://localhost:5173)
 
 ---
+Enlace al figma: https://www.figma.com/design/2taXeT505RrB5NZkVuaFrU/Ascensor-social?node-id=0-1&t=IL4rGtkCtFOQ3rbZ-1
